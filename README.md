@@ -4,8 +4,7 @@
 
 # Sections
 
-####
-####
+#### This repository will be divided into multiple sections, each containing important information about the contents of each section.
 
 ## String Class
 
