@@ -10,28 +10,28 @@
 
 ### String Class Methods
 
-#### int length()
+#### 1. int length()
 
-#### String toLowerCase()
-#### String toUpperCase()
+#### 2. String toLowerCase()
+#### 3. String toUpperCase()
 
-#### String trim()
+#### 4. String trim()
 
-#### String substring(int begin)
-#### String substring(int begin, int end)
+#### 5. String substring(int begin)
+#### 6. String substring(int begin, int end)
 
-#### String replace(char old, char new)
+#### 7. String replace(char old, char new)
 
-#### boolean startsWith(String s)
-#### boolean endssWith(String s)
+#### 8. boolean startsWith(String s)
+#### 9. boolean endssWith(String s)
 
-#### char charAt(int index)
+#### 10. char charAt(int index)
 
-#### int indexOf(String s)
-#### int lastIndexOf(String s)
+#### 11. int indexOf(String s)
+#### 12. int lastIndexOf(String s)
 
-#### boolean equals(String s)
-#### boolean equalsIgnoreCase(String s)
+#### 13. boolean equals(String s)
+#### 14. boolean equalsIgnoreCase(String s)
 
-#### int compareTo(String s)
-#### String valueOf(int i)
+#### 15. int compareTo(String s)
+#### 16. String valueOf(int i)
