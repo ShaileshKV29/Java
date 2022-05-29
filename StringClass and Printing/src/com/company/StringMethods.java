@@ -14,5 +14,6 @@ public class StringMethods {
 
         String str3 = String.valueOf(10.5f+20);
         System.out.println(str3);
+        
     }
 }
