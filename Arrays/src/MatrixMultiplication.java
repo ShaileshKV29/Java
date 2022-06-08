@@ -10,7 +10,7 @@ public class MatrixMultiplication {
             {
                 for(int k = 0; k < A.length; k++)
                 {
-                    C[i][j] += A[i][j] * B[k][j];
+                    C[i][j] += A[i][k] * B[k][j];
                 }
             }
         }
